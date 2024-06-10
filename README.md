@@ -39,21 +39,21 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 ## CSS File
 
-[Styles](https://github.com/jzamora5/holberton-smiling-school/blob/master/styles.css)
+[Styles](https://github.com/Holbiwan/holberton-smiling-school/blob/master/styles.css)
 
 ## Homepage
 
-[Homepage Header/Hero Section](https://github.com/jzamora5/holberton-smiling-school/blob/master/0-homepage.html)
+[Homepage Header/Hero Section](https://github.com/Holbiwan/holberton-smiling-school/blob/master/0-homepage.html)
 
-[Carousel of quotes](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-homepage.html)
+[Carousel of quotes](https://github.com/Holbiwan/holberton-smiling-school/blob/master/1-homepage.html)
 
-[Popular Videos](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-homepage.html)
+[Popular Videos](https://github.com/Holbiwan/holberton-smiling-school/blob/master/2-homepage.html)
 
-[Row of smiles](https://github.com/jzamora5/holberton-smiling-school/blob/master/3-homepage.html)
+[Row of smiles](https://github.com/Holbiwan/holberton-smiling-school/blob/master/3-homepage.html)
 
-[Latest Videos](https://github.com/jzamora5/holberton-smiling-school/blob/master/4-homepage.html)
+[Latest Videos](https://github.com/Holbiwan/holberton-smiling-school/blob/master/4-homepage.html)
 
-[Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/homepage.html)
+[Footer](https://github.com/Holbiwan/holberton-smiling-school/blob/master/homepage.html)
 
 ## Pricing
 

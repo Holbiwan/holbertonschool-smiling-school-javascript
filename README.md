@@ -10,6 +10,11 @@ These group of web pages were coded from scratch with the help of the Boostrap F
 
 The designs were planned for Desktop, Tablet, and Mobile.
 
+|||
+|--|--|
+|![jQuery](https://sololearnuploads.azureedge.net/uploads/courses/1082.png)|![Bootstrap](https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67)|
+
+
 # Homepage
 
 | **Desktop (Width: 1440 px)**                              | **Tablet (Width: 768 px)**                              | **Mobile (Width: 576 px)**                              |
@@ -71,6 +76,11 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 [List of Results](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-courses.html)
 
 [Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
+
+
+# Challenges and Future Features
+
+This project measures knowledge in HTML, CSS, Bootstrap, JavaScript, and JQuery.
 
 # Author:
 

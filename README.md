@@ -12,7 +12,7 @@ The designs were planned for Desktop, Tablet, and Mobile.
 
 |||
 |--|--|
-|![jQuery](https://sololearnuploads.azureedge.net/uploads/courses/1082.png)|![Bootstrap](https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67)|
+|![jQuery](https://sololearnuploads.azureedge.net/uploads/courses/1082.png)|![Bootstrap](https://zupimages.net/up/24/24/trhc.jpg)|
 
 
 # Homepage

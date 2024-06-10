@@ -10,11 +10,6 @@ These group of web pages were coded from scratch with the help of the Boostrap F
 
 The designs were planned for Desktop, Tablet, and Mobile.
 
-|||
-|--|--|
-|![jQuery](https://sololearnuploads.azureedge.net/uploads/courses/1082.png)|![Bootstrap](https://zupimages.net/up/24/24/uodt.png)|
-
-
 # Homepage
 
 | **Desktop (Width: 1440 px)**                              | **Tablet (Width: 768 px)**                              | **Mobile (Width: 576 px)**                              |

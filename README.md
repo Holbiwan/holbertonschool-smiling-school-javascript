@@ -57,25 +57,25 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 ## Pricing
 
-[Pricing Header](https://github.com/jzamora5/holberton-smiling-school/blob/master/0-pricing.html)
+[Pricing Header](https://github.com/Holbiwan/holberton-smiling-school/blob/master/0-pricing.html)
 
-[Prices Grid](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-pricing.html)
+[Prices Grid](https://github.com/Holbiwan/holberton-smiling-school/blob/master/1-pricing.html)
 
-[Quotes Section](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-pricing.html)
+[Quotes Section](https://github.com/Holbiwan/holberton-smiling-school/blob/master/2-pricing.html)
 
-[FAQ](https://github.com/jzamora5/holberton-smiling-school/blob/master/3-pricing.html)
+[FAQ](https://github.com/Holbiwan/holberton-smiling-school/blob/master/3-pricing.html)
 
-[Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/pricing.html)
+[Footer](https://github.com/Holbiwan/holberton-smiling-school/blob/master/pricing.html)
 
 ## Courses
 
-[Courses Header](https://github.com/jzamora5/holberton-smiling-school/blob/master/0-courses.html)
+[Courses Header](https://github.com/Holbiwan/holberton-smiling-school/blob/master/0-courses.html)
 
-[Search Filters](https://github.com/jzamora5/holberton-smiling-school/blob/master/1-courses.html)
+[Search Filters](https://github.com/Holbiwan/holberton-smiling-school/blob/master/1-courses.html)
 
-[List of Results](https://github.com/jzamora5/holberton-smiling-school/blob/master/2-courses.html)
+[List of Results](https://github.com/Holbiwan/holberton-smiling-school/blob/master/2-courses.html)
 
-[Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
+[Footer](https://github.com/Holbiwan/holberton-smiling-school/blob/master/courses.html)
 
 
 # Challenges and Future Features
